@@ -1,0 +1,10 @@
+{"type": "incoming", "chat_id": 8074422477, "text": "What is 15% of 200? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1785418773.8204296}
+{"type": "outgoing", "chat_id": 8074422477, "text": "{\"answer\": 30, \"log_url\": \"https://example.com/run.jsonl\"}", "timestamp": 1785418781.046329}
+{"type": "incoming", "chat_id": 8074422477, "text": "hi", "timestamp": 1785426515.2093956}
+{"type": "outgoing", "chat_id": 8074422477, "text": "{\"message\": \"hi\", \"log_url\": \"https://example.com/run.jsonl\"}", "timestamp": 1785426521.405184}
+{"type": "incoming", "chat_id": 8074422477, "text": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\"state\": \"<state name>\"}", "timestamp": 1785427611.0892289}
+{"type": "outgoing", "chat_id": 8074422477, "text": "{\"state\": \"Assam\", \"log_url\": \"https://example.com/run.jsonl\"}", "timestamp": 1785427621.2734694}
+{"type": "incoming", "chat_id": 8074422477, "text": "hi", "timestamp": 1785428560.780385}
+{"type": "outgoing", "chat_id": 8074422477, "text": "{\"state\": \"Assam\", \"log_url\": \"https://example.com/run.jsonl\"}", "timestamp": 1785428565.095577}
+{"type": "incoming", "chat_id": 8074422477, "text": "test", "timestamp": 1785428571.3886778}
+{"type": "outgoing", "chat_id": 8074422477, "text": "{\"state\": \"Assam\", \"log_url\": \"https://example.com/run.jsonl\"}", "timestamp": 1785428575.9345067}
